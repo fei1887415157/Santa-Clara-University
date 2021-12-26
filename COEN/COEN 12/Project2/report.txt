@@ -1,0 +1,31 @@
+time in seconds
+record "real"
+
+unique
+------
+                              unsorted  sorted
+GreenEggsAndHam.txt           0.010		0.017
+Macbeth.txt                   0.051		0.027
+Genesis.txt                   0.051		0.027
+HoundOfTheBaskervilles.txt    0.131		0.040
+TheWarOfTheWorlds.txt         0.155		0.046
+TreasureIsland.txt            0.141		0.045
+TheSecretGarden.txt           0.131		0.041
+TwentyThousandLeagues.txt     0.298		0.065
+TheCountOfMonteCristo.txt     1.537		0.199
+Bible.txt                     1.664		0.191
+
+
+parity
+------
+                              unsorted  sorted
+GreenEggsAndHam.txt           0.019		0.015
+Macbeth.txt                   0.151		0.048
+Genesis.txt                   0.185		0.049
+HoundOfTheBaskervilles.txt    0.656		0.140
+TheWarOfTheWorlds.txt         0.769		0.153
+TreasureIsland.txt            0.794		0.371
+TheSecretGarden.txt           0.736		0.158
+TwentyThousandLeagues.txt     1.796		0.296
+TheCountOfMonteCristo.txt     14.827	2.303
+Bible.txt                     16.443	2.189
